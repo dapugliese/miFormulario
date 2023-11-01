@@ -6,5 +6,10 @@ namespace miFormulario
         {
             InitializeComponent();
         }
+
+        private void btnAceptar_Click(object sender, EventArgs e)
+        {
+            lblApellidoNombre.Text = txbApellido.Text + ", " + txbNombre.Text;
+        }
     }
 }

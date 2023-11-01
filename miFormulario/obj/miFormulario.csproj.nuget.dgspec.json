@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario\\miFormulario.csproj": {}
+    "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario\\miFormulario.csproj": {
+    "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario\\miFormulario.csproj",
+        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario.csproj",
         "projectName": "miFormulario",
-        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario\\miFormulario.csproj",
+        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario.csproj",
         "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\miFormulario\\obj\\",
+        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\miFormulario\\miFormulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",

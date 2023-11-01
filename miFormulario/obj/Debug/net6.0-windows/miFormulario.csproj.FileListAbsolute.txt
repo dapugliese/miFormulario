@@ -1,0 +1,16 @@
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\bin\Debug\net6.0-windows\miFormulario.exe
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\bin\Debug\net6.0-windows\miFormulario.deps.json
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\bin\Debug\net6.0-windows\miFormulario.runtimeconfig.json
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\bin\Debug\net6.0-windows\miFormulario.dll
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\bin\Debug\net6.0-windows\miFormulario.pdb
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.Form1.resources
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.csproj.GenerateResource.cache
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.dll
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\refint\miFormulario.dll
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.pdb
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\miFormulario.genruntimeconfig.cache
+C:\Users\Lab15-PC01\Documents\miFormulario\miFormulario\obj\Debug\net6.0-windows\ref\miFormulario.dll
